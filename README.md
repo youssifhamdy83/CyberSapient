@@ -103,7 +103,7 @@ The application follows MVI (Model-View-Intent) architecture with Clean Architec
 
 ### Task List Screen
 
-<img src="screenshots/task_list_screen" alt="Task List Screen" width="300" height="auto">
+<img src="screenshots/task_list_screen.png" alt="Task List Screen" width="300" height="auto">
 
 
 ![Task List Screen](screenshots/task_list_screen.png)
