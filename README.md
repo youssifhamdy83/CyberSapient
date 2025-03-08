@@ -102,8 +102,8 @@ The application follows MVI (Model-View-Intent) architecture with Clean Architec
 ## 📸 Screenshots
 
 ### Task List Screen
-<img src="screenshots/task_list_screen.png" alt="Task List Screen" width="300" height="auto">
-<img src="screenshots/task_list_screen_dark.png" alt="Task List Screen" width="300" height="auto">
+<img src="screenshots/task_list_screen.png" alt="Task List Screen" width="300" height="auto"> <img src="screenshots/task_list_screen_dark.png" alt="Task List Screen" width="300" height="auto">
+
 
 ### Add Task Screen
 <img src="screenshots/add_task_screen.png" alt="Task List Screen" width="300" height="auto">
