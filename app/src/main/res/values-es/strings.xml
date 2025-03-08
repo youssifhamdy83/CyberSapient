@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyberSapientTask</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="select_date">Seleccionar fecha</string>
+    <string name="select_priority">Seleccionar prioridad</string>
+    <string name="high">Alta</string>
+    <string name="medium">Media</string>
+    <string name="low">Baja</string>
+    <string name="empty_title">¡El título no puede estar vacío!</string>
+    <string name="save_task">Guardar tarea</string>
+    <string name="tasks_title">Tareas</string>
+    <string name="sort_by_duedate">Ordenar por fecha</string>
+    <string name="sort_by_priority">Ordenar por prioridad</string>
+    <string name="sort_by_alphabetical">Ordenar alfabéticamente</string>
+    <string name="task_deleted">Tarea eliminada</string>
+    <string name="no_tasks_found">No hay tareas disponibles</string>
+    <string name="deleted_task">Eliminar tarea</string>
+    <string name="completed_task">Marcar como completada</string>
+    <string name="task_details">Detalles de la tarea</string>
+    <string name="settings">Configuración</string>
+    <string name="selected_lan">Seleccionar idioma</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="french">Francés</string>
+    <string name="deutsch">Alemán</string>
+</resources>
