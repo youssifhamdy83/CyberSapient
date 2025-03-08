@@ -102,24 +102,20 @@ The application follows MVI (Model-View-Intent) architecture with Clean Architec
 ## 📸 Screenshots
 
 ### Task List Screen
-
 <img src="screenshots/task_list_screen.png" alt="Task List Screen" width="300" height="auto">
-
-
-![Task List Screen](screenshots/task_list_screen.png)
-![Task List Screen](screenshots/task_list_screen_dark.png)
+<img src="screenshots/task_list_screen_dark.png" alt="Task List Screen" width="300" height="auto">
 
 ### Add Task Screen
-![Add Task Screen](screenshots/add_task_screen.png)
-![Add Task Screen](screenshots/add_task_screen_dark.png)
+<img src="screenshots/add_task_screen.png" alt="Task List Screen" width="300" height="auto">
+<img src="screenshots/add_task_screen_dark.png" alt="Task List Screen" width="300" height="auto">
 
 ### Task Details Screen
-![Task Details Screen](screenshots/task_details_screen.png)
-![Task Details Screen](screenshots/task_details_screen_dark.png)
+<img src="screenshots/task_details_screen.png" alt="Task List Screen" width="300" height="auto">
+<img src="screenshots/task_details_screen_dark.png" alt="Task List Screen" width="300" height="auto">
 
 ### Settings Screen
-![Settings Screen](screenshots/settings_screen.png)
-![Settings Screen](screenshots/settings_screen_dark.png)
+<img src="screenshots/settings_screen.png" alt="Task List Screen" width="300" height="auto">
+<img src="screenshots/settings_screen_dark.png" alt="Task List Screen" width="300" height="auto">
 
 🚀 Getting Started
 
